@@ -1,4 +1,6 @@
-# Repositório para atender a issues postadas
+![Alt text](http://santacasapederneiras.com.br/wp-content/uploads/2014/10/logo-santa-casa-de-pederneiras.jpg "Santa Casa de Pederneiras")
+
+#Repositório para agrupar as informações da Santa Casa de Pederneiras.
 
 Todas as issues são abertas para qualquer pessoa ajudar, e agradeçemos muito qualquer colaboração que chegue.
 
