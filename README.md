@@ -8,6 +8,10 @@ Para informações sobre como ajudar acesse a página de Issues:
 
 [**Issues**](https://github.com/SantaCasa-Pederneiras/material-grafico/issues)
 
+#Software utlizado
+
+Por ser uma iniciativa aberta o software utilizado é o [*Inkscape*](https://inkscape.org/pt/), a instalação é bem simples.
+
 #Como ajudar?
 
 Para ajudar é simples, basta seguir o processo abaixo:
